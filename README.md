@@ -8,4 +8,4 @@
 ![FightImg](https://user-images.githubusercontent.com/55481788/194673036-b5e40bb5-1504-471e-b168-40d4fa00148c.JPG)
 
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/GeniusWeeb/CustomRenderPipeline)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeniusWeeb&repo=CustomRenderPipeline)](https://github.com/GeniusWeeb/CustomRenderPipeline)
