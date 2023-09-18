@@ -9,6 +9,9 @@ namespace WrestleSimualtor
     public class WrestlngSimManager : MonoBehaviour
     {
 
+    //All thye public should be [SerializeField] private 
+    /I am just lazy
+
         public CharacterRuleSet Gamerules; 
         private static WrestlngSimManager _instance;
         public static WrestlngSimManager Instance => _instance;
